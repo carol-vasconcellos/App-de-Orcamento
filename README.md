@@ -33,14 +33,7 @@ Este projeto tem como objetivo desenvolver um aplicativo para a organização de
 
 2. **Variáveis de Ambiente**
 
-   Crie um arquivo `.env` dentro da pasta `backend` com as seguintes variáveis de ambiente:
-
-   ```bash
-   MONGO_URI=mongodb://localhost:27017/organizacao_obras
-   MAILTRAP_USER=seu_user_mailtrap
-   MAILTRAP_PASS=sua_senha_mailtrap
-   PORT=5000
-   ```
+   Crie um arquivo `.env` dentro da pasta `backend` com as as variáveis de ambiente.
 
 3. **Rodar o Servidor**
 
